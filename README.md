@@ -9,5 +9,5 @@ This is a JavaFX project that is for a farm simulator game with basic visuals an
 To run this project, you need:
 
 - Java Development Kit (JDK) 8
-- JavaFX SDK 9
+- JavaFX SDK 8
 - An IDE that supports JavaFX development (e.g., IntelliJ IDEA, Eclipse, or NetBeans)
